@@ -87,6 +87,7 @@ telescope.setup {
     -- }
     -- Now the picker_config_key will be applied every time you call this
     -- builtin picker
+    -- builtin picker
   },
   extensions = {
     media_files = {
